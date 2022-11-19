@@ -61,7 +61,7 @@ I am currently working in the University of British Columnbia, Vancouver, Canada
 <br><strong>Position:</strong> Graduate Teaching Assistant
 <br><strong>Institution:</strong> Department of Natural resources management, Lakehead University (LU), Thunder Bay, ON, Canada 
 <br><strong>Course 1:</strong> GIS in Management Planning
-<br>Involved knowledge:</strong> forestry GIS application, map projections, Georeferencing, basic cartography, attribute manipulation, table joins, attribute and spatial queries, vector and raster data models, surface interpolation, viewscape analysis, and 3D modeling etc.
+<br><strong>Involved knowledge:</strong> forestry GIS application, map projections, Georeferencing, basic cartography, attribute manipulation, table joins, attribute and spatial queries, vector and raster data models, surface interpolation, viewscape analysis, and 3D modeling etc.
 <br><strong>Course 2:</strong> Forest genetics
 <br><strong>Involved knowledge:</strong> basic genetics, classic quantitative genetics, allele frequency, population genetics and diversity, genetic adaptation to climate change, etc.
 <br><strong>Course 3:</strong> Forestry ecology and silviculture
