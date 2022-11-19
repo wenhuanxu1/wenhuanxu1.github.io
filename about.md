@@ -5,7 +5,7 @@ permalink: /about/
 ---
 I am currently working in the University of British Columnbia, Vancouver, Canada. My current and previous academic exeprience as follow:   
 <br>
-<font size="+2"><strong> Research projects</strong></font><br>
+<font size="+2"><strong> Research projects</strong></font>
 <br>Period: 2022.1 -present
 <br>Title: Adaptation of Asia-Pacific Forestry to Climate Change Phase III – Synopsis, updating and extension of forest adaptation tools
 <br>Founder: Asia-Pacific Network for Sustainable Forest Management and Rehabilitation 
@@ -43,14 +43,14 @@ I am currently working in the University of British Columnbia, Vancouver, Canada
 <br>Keyword: DGGE molecular tech, biolog, microal biomass
 <br><br>
 
-<font size="+2"><strong> Conference and workshop</strong></font><br>
+<font size="+2"><strong> Conference and workshop</strong></font>
 <br>Conference: 2016 High-Level Forum of Ecology Society of Jiangsu Province.
 <br>Conference: 2014 The fourth Yangtze River Delta graduate forum in biology and bio-tech, submitting a paper. 
 <br>Conference: 2013 Annual meeting of Ecology Society of China, Jiangxi Province.
 <br>Workshop/training: 2014 Advanced Field course in Ecology and conservation in Xishuangbanna Tropic Botanical Garden, Chinese Academic of Sciences, Yunnan, China. (Main courses in XTBG for 40 days: R language, GIS, Statistics, birds and bats detection, project) 
 <br><br>
 
-<font size="+2"><strong> Teaching experiences </strong></font><br>
+<font size="+2"><strong> Teaching experiences </strong></font>
 <br>Period: 2022.9 – 2022.12: 
 <br>Position: Graduate Teaching Assistant
 <br>Institution: Department of Forest and Conservation Sciences, the University of British Columbia (UBC), Vancouver, BC, Canada 
